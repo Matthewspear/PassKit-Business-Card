@@ -5,7 +5,7 @@
 	"teamIdentifier" : "JHN8AW68Y3",
 	"barcodes" : [
 		{
-		    "message" : "https://www.dropbox.com/s/8lig8eqene4qfug/matt-businesscard.pkpass?dl=1",
+		    "message" : "https://github.com/Matthewspear/PassKit-Business-Card/blob/master/matthew-card.pkpass",
 		    "format" : "PKBarcodeFormatQR",
 		    "messageEncoding" : "iso-8859-1"
 		}
